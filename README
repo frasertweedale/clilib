@@ -1,0 +1,7 @@
+clilib - Simple command line interface library
+==============================================
+
+::
+
+    import clilib
+    help(clilib)
